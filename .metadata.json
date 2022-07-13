@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "seas",
+    "oncran": true
+  }
+]
